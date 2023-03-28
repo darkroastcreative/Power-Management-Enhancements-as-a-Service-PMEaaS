@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Power_Manager_Improvements_as_a_Service__PMIaaS_": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
