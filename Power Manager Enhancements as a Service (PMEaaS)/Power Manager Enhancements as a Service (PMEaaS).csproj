@@ -4,8 +4,8 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-Power_Manager_Improvements_as_a_Service__PMIaaS_-1841b5ee-e1d2-4723-81ba-0160844b910a</UserSecretsId>
-    <RootNamespace>Power_Manager_Improvements_as_a_Service__PMIaaS_</RootNamespace>
+    <UserSecretsId>dotnet-Power_Manager_Enhancements_as_a_Service_PMEaaS-1841b5ee-e1d2-4723-81ba-0160844b910a</UserSecretsId>
+    <RootNamespace>Power_Manager_Enhancements_as_a_Service_PMEaaS</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

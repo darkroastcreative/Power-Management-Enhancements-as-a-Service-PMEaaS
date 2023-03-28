@@ -1,4 +1,4 @@
-namespace Power_Manager_Improvements_as_a_Service__PMIaaS_;
+namespace Power_Manager_Enhancements_as_a_Service_PMEaaS;
 
 public class Worker : BackgroundService
 {

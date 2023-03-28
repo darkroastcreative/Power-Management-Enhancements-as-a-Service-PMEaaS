@@ -1,4 +1,4 @@
-using Power_Manager_Improvements_as_a_Service__PMIaaS_;
+using Power_Manager_Enhancements_as_a_Service_PMEaaS;
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices(services =>
